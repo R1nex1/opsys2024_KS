@@ -1,4 +1,4 @@
-# Praktikum 1 aruanne
+# Praktikum 1 aruanne. Virtualbox ja Windowsi paigaldus.
 
 Esitan 1. operastioonisüsteemide kursuse praktikumi ülesande. Praktikumi käigus jälgisin ette antud juhiseid ning paigaldasin endale Virtualboxi ja sinna W11-ne. Kõige kauem läks windowsi paigaldamisega, sest uuendused laadisid kaua. Litsentsi aktiveerimiseks kasutasin EduVPN-i abi. 
 
