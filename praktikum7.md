@@ -32,7 +32,7 @@ https://kodu.ut.ee/~kasparsanin/opsys/hdd.png
 
 ## Ülesanne 6. Leidke mount-käsu väljundist üles, mis väärtusega asendas Ubuntu auto-parameetri.
 
-'auto' asendatakse 'fuseblk -ga'
+'auto' asendatati 'ext4'
 
 ## Ülesanne 7. Pilt /etc/fstab-faili sisust, et 4 TB ketas haagitaks Ubuntu käivitamisel automaatselt kausta /mnt/bigdata.
 <img width="720" alt="praktikum7.7" src="https://github.com/user-attachments/assets/2c57415a-efbf-4d66-921a-ab321c8ff110">
