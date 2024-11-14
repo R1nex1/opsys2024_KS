@@ -25,3 +25,8 @@ Esitan 9. operastioonisüsteemide kursuse praktikumi ülesanded. Praktikumi käi
 | Sõber kurdab, et tema arvuti on oluliselt aeglasemaks muutunud. Milliseid konkreetseid programme või käsureakäske kasutad põhjustaja tuvastamiseks. Mõlemal juhul kirjuta, mida konkreetselt jälgid (nt mis aken, veerud, numbrid jne). (Vali Linuxis või Windowsis)                                                                                                                                                            | -                            | Ava Task Manager Processes (Protsessid): Vaata, millised programmid kasutavad palju protsessori (CPU), mälu (Memory) või ketta (Disk) ressursse. Vaata süsteemi jõudlust Performance alt, kuidas käituvad süsteemi erinevad osad. Kontrolli startup alt, millised programmid käivitatakse süsteemi käivitusel. Ava Resource Monitor kontrolli kõrge CPU, mälu või kettakasutusega protsesse. Ava Windows Defender, teosta süsteemile pahavara kontroll.| -    | Task Manager -> Jõudlus, Protsessid, Startup Apps; Resource Monitor -> CPU, Memory, Disk; Windows Security -> Virus & Threat Protection -> Scan options -> Full Scan|
 
 ## Pildid
+![OS-praktikum9 14_2](https://github.com/user-attachments/assets/33d0aef8-58b8-4f95-b8c1-32862e245d14)
+![OS-praktikum9 14_1](https://github.com/user-attachments/assets/44cce59a-b957-4310-baf2-36f1efc6a4c9)
+![OS-praktikum9 12_2](https://github.com/user-attachments/assets/d2f26ceb-7e06-4247-95f7-0a243a79a5b6)
+![OS-praktikum9 12_1](https://github.com/user-attachments/assets/9744fd7e-ec73-4972-974a-6a772162836e)
+![OS-praktikum9 6](https://github.com/user-attachments/assets/84804889-30ce-4c77-b051-df3381a7cbf7)
