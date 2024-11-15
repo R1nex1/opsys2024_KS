@@ -1,4 +1,4 @@
-# Praktikum  aruanne - Haakimine
+# Praktikum 7 aruanne - Haakimine
 
 Esitan 7. operastioonisüsteemide kursuse praktikumi ülesanded. Praktikumi käigus jälgisin ette antud juhiseid, ühendasin võrgukettaid linuxis ja windowsis ning ühendasin 4TB kettast samade süsteemidega.
 
