@@ -1,4 +1,4 @@
-# Praktikum  aruanne - ressursihaldus
+# Praktikum 9 aruanne - ressursihaldus
 
 Esitan 9. operastioonisüsteemide kursuse praktikumi ülesanded. Praktikumi käigus jälgisin ette antud juhiseid, kasutasin erinevaid win 11 programme, et jälgida, mis kui palju ressursse kasutab ning ubuntus erinevate käskude väljundeid, et saada analoogseid vasteid linuxis. 
 
