@@ -1,4 +1,4 @@
-# Praktikum  aruanne - RAID ja andmete varundamine
+# Praktikum 8 aruanne - RAID ja andmete varundamine
 
 Esitan 8. operastioonisüsteemide kursuse praktikumi ülesanded. Praktikumi käigus jälgisin ette antud juhiseid, lõin win11 ja Ubuntule RAIDi ning varundasin andmeid erinevate pilvetehnoloogiatega.
 
