@@ -101,4 +101,5 @@ Stop-Transcript
 Try-finally plokk kindlustab, et isegi kui try-plokis tekib viga, taastatakse ErrorActionPreference väärtus lõpuks finally-plokis. Kasutasin, et lahendada probleemi, kus punktis 9 oli mitmete protsesside algusajale ligipääs keelatud.
 
 ## Väljund fail
-    
+[opsys13.txt](https://github.com/user-attachments/files/18186588/opsys13.txt)
+
